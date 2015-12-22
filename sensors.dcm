@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PIR_Motion_Sensor
+D PIR motion sensor
+K motion, sensor, pyroelectric, infrared, ir
+$ENDCMP
+#
+#End Doc Library
