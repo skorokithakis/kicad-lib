@@ -5,4 +5,9 @@ D PIR motion sensor
 K motion, sensor, pyroelectric, infrared, ir
 $ENDCMP
 #
+$CMP Photoresistor
+D A photoresistive light sensor
+K light, sensor
+$ENDCMP
+#
 #End Doc Library
