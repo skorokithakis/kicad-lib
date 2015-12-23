@@ -47,7 +47,7 @@ ENDDEF
 #
 DEF RF_Transmitter_433_MHz TR 0 0 N Y 1 F N
 F0 "TR" 0 800 60 H V C CNN
-F1 "RF_Transmitter_433_MHz" 50 700 60 H V C CNN
+F1 "RF_Transmitter_433_MHz" 0 700 60 H V C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 DRAW
