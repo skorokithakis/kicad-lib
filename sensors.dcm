@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP DHT11_Temperature_Humidity
+D A DHT11 temperature and humidity sensor
+K DHT11, temperature, humidity
+$ENDCMP
+#
 $CMP PIR_Motion_Sensor
 D PIR motion sensor
 K motion, sensor, pyroelectric, infrared, ir

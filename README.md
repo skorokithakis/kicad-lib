@@ -15,5 +15,7 @@ the one that takes up a whole breadboard.
 * A [photoresistor
   module](http://hobbycomponents.com/sensors/160-photoresistive-light-dependent-resistor-module-ky-018),
   which I also think has the pins wired nonstandardly.
+* A DHT11
+  [temperature/humidity sensor](http://hobbycomponents.com/sensors/84-dht11-arduino-compatible-digital-temperature-humidity-sensor-module).
 
 Enjoy, no guarantees, etc!
