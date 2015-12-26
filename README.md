@@ -17,5 +17,7 @@ the one that takes up a whole breadboard.
   which I also think has the pins wired nonstandardly.
 * A DHT11
   [temperature/humidity sensor](http://hobbycomponents.com/sensors/84-dht11-arduino-compatible-digital-temperature-humidity-sensor-module).
+* A [433 MHz RF receiver/transmitter
+  pair](http://tinkersphere.com/wireless-modules-for-raspberry-pi-and-arduino/485-rf-link-transmitter-receiver-module-pair-433mhz-or-315mhz-for-arduino-raspberry-pi-b-b.html).
 
 Enjoy, no guarantees, etc!

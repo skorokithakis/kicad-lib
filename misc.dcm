@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RFID-RC522
+D An RC522 RFID reader
+K RC522, RFID, MRC522, MFRC522
+$ENDCMP
+#
+#End Doc Library

@@ -15,6 +15,11 @@ D A photoresistive light sensor
 K light, sensor
 $ENDCMP
 #
+$CMP RF_Receiver_433_MHz
+D An RF receiver at 433 MHz
+K rf, receiver, 433
+$ENDCMP
+#
 $CMP RF_Transmitter_433_MHz
 D An RF transmitter at 433 MHz
 K rf, transmitter, 433
