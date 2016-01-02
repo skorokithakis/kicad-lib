@@ -12,6 +12,10 @@ but my pins seem to be reversed. I think I got a defective batch.
 * A [NodeMCU
   0.9](http://www.cnx-software.com/wp-content/uploads/2015/10/NodeMCU_v0.9_Pinout.png),
 the one that takes up a whole breadboard.
+* A [NodeMCU
+  Amica
+R2](http://www.electrodragon.com/product/nodemcu-lua-amica-r2-esp8266-wifi-board/),
+the one that doesn't take up a whole breadboard.
 * A [photoresistor
   module](http://hobbycomponents.com/sensors/160-photoresistive-light-dependent-resistor-module-ky-018),
   which I also think has the pins wired nonstandardly.
