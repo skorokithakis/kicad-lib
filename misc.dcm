@@ -5,4 +5,10 @@ D An RC522 RFID reader
 K RC522, RFID, MRC522, MFRC522
 $ENDCMP
 #
+$CMP Tiny_Breakout
+D Tiny ESP8266 Breakout Board
+K Tiny Breakout ESP8266 ESP-8266
+F https://github.com/skorokithakis/tiny-ESP8266-breakout
+$ENDCMP
+#
 #End Doc Library

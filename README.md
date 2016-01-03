@@ -16,6 +16,8 @@ the one that takes up a whole breadboard.
   Amica
 R2](http://www.electrodragon.com/product/nodemcu-lua-amica-r2-esp8266-wifi-board/),
 the one that doesn't take up a whole breadboard.
+* A [Tiny Breakout
+  v1.1](https://github.com/skorokithakis/tiny-ESP8266-breakout).
 * A [photoresistor
   module](http://hobbycomponents.com/sensors/160-photoresistive-light-dependent-resistor-module-ky-018),
   which I also think has the pins wired nonstandardly.
