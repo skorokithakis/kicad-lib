@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP JACK_TRS_4PINS
+D TRS audio jack, 4 pins, mic
+K audio jack connector TRS mic
+$ENDCMP
+#
 $CMP L298N_H-Bridge
 D An H-Bridge based on the L298N
 K bridge, h-bridge, L298N
