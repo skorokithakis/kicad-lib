@@ -20,6 +20,7 @@ Contains:
 * A DHT22 [temperature/humidity sensor](https://www.adafruit.com/products/385).
 * A [433 MHz RF receiver/transmitter pair](http://tinkersphere.com/wireless-modules-for-raspberry-pi-and-arduino/485-rf-link-transmitter-receiver-module-pair-433mhz-or-315mhz-for-arduino-raspberry-pi-b-b.html).
 * A random L298N-based H-bridge from eBay.
+* A [PJ-320L](http://www.pchub.com/uph/laptop/1280-114549-27071/Juye-Audio-Type-Jack-Audio-3.5mm.html) audio jack.
 * An AI-Thinker A6 GSM module.
 
 Enjoy, no guarantees, etc!
