@@ -22,5 +22,6 @@ Contains:
 * A random L298N-based H-bridge from eBay.
 * A [PJ-320L](http://www.pchub.com/uph/laptop/1280-114549-27071/Juye-Audio-Type-Jack-Audio-3.5mm.html) audio jack.
 * An AI-Thinker A6 GSM module.
+* A 115C-AC00-R SIM card holder.
 
 Enjoy, no guarantees, etc!
